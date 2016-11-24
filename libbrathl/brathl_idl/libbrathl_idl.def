@@ -1,4 +1,0 @@
-LIBRARY			brathl-idl
-DESCRIPTION		'Basic Envisat Atmospheric Toolbox'
-
-EXPORTS			IDL_Load		@1
